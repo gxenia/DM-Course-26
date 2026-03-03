@@ -1,5 +1,5 @@
-# Data Mining Course Material - A.Y. 2024-2025
-Python notebooks for the "Data Mining" course, Bachelor Degree ("Laurea Triennale") in Computer Engineering @ DIMES Dept, University of Calabria, CS, IT
+# Data Mining Course Material - A.Y. 2025-2026
+Python notebooks for the "Data Mining" course, Bachelor's Degree ("Laurea Triennale") in Computer Engineering @ DIMES Dept, University of Calabria, CS, IT
 
 # Overview (work in progress..)
 > * Part 1 - Data Handling (Numpy & Pandas)
